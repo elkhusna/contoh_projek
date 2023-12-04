@@ -16,7 +16,7 @@ col1, col2 = st.columns(2)
 
 with col1:
    st.header("About Me")
-   st.image("me.jpg", width= 290)
+   st.image("me.JPG", width= 290)
 
 with col2:
    st.header("My Biodata")
